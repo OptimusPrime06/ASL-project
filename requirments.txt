@@ -1,0 +1,9 @@
+tensorflow
+tensorflow-hub
+scikit-learn
+numpy
+matplotlib
+seaborn
+pandas
+shutil
+PIL.Images
