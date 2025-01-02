@@ -66,7 +66,7 @@ The primary goal of this project is to identify ASL letters as accurately as pos
     <a href="https://code.visualstudio.com/docs/datascience/jupyter-notebooks" target="_blank">Jupyter Notebook setup by VScode</a>
 
 ## Files List
-1. [requirements.txt](requirements.txt)
+1. [requirments.txt](requirments.txt)
 2. [CNN.ipynb](CNN.ipynb)
 3. [CNNClassificationReport.csv](CNNClassificationReport.csv)
 4. [MobileNetV2.ipynb](MobileNetV2.ipynb)
